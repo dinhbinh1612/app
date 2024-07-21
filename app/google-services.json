@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164625841098",
+    "firebase_url": "https://appnauanpdb-default-rtdb.firebaseio.com",
+    "project_id": "appnauanpdb",
+    "storage_bucket": "appnauanpdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164625841098:android:a67ca4aa1a1c99fa08ad33",
+        "android_client_info": {
+          "package_name": "fpoly.pro1121.asmand103"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164625841098-phlm8pg2cj2aqkooid3560n5og034nqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fpoly.pro1121.asmand103",
+            "certificate_hash": "85bb53b870fc6d53587ae45e6ace1793e3c9c043"
+          }
+        },
+        {
+          "client_id": "164625841098-0hluvkuvu6o1nqm7uipe5pe5r1pitnir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4ge7C-f8NgnLoayyHYBDBYc8cDgzTww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164625841098-0hluvkuvu6o1nqm7uipe5pe5r1pitnir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
